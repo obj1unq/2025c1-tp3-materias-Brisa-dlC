@@ -213,3 +213,14 @@
 {"level":"info","message":"⌛ Validating tpMateriasTest.wtest","timeElapsed":142,"timestamp":"2025-05-18T06:57:55.873Z"}
 {"level":"info","message":"⌛ Building environment","timeElapsed":146,"timestamp":"2025-05-18T06:57:56.249Z"}
 {"level":"info","message":"⌛ Building environment","timeElapsed":133,"timestamp":"2025-05-18T06:57:56.874Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":236,"timestamp":"2025-05-18T06:58:37.496Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":233,"timestamp":"2025-05-18T06:58:37.764Z"}
+{"level":"info","message":"⌛ Validating tpMateriasTest.wtest","timeElapsed":145,"timestamp":"2025-05-18T06:58:38.332Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":153,"timestamp":"2025-05-18T06:58:38.486Z"}
+{"level":"info","message":"⌛ Validating requisito.wlk","timeElapsed":116,"timestamp":"2025-05-18T06:58:38.620Z"}
+{"level":"info","message":"⌛ Validating materia.wlk","timeElapsed":119,"timestamp":"2025-05-18T06:58:38.740Z"}
+{"level":"info","message":"⌛ Validating maprobada.wlk","timeElapsed":122,"timestamp":"2025-05-18T06:58:38.865Z"}
+{"level":"info","message":"⌛ Validating estudiante.wlk","timeElapsed":118,"timestamp":"2025-05-18T06:58:39.000Z"}
+{"level":"info","message":"⌛ Validating estrategias.wlk","timeElapsed":105,"timestamp":"2025-05-18T06:58:39.106Z"}
+{"level":"info","message":"⌛ Validating carrera.wlk","timeElapsed":105,"timestamp":"2025-05-18T06:58:39.211Z"}
+{"level":"info","message":"⌛ Validating tpMateriasTest.wtest","timeElapsed":139,"timestamp":"2025-05-18T06:58:39.355Z"}
